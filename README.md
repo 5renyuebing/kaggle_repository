@@ -1,2 +1,5 @@
-# kaggle-
-记录在kaggle上做的比赛
+# kaggle竞赛记录
+
+1.Digit Recognizer
+
+准确率：0.99485

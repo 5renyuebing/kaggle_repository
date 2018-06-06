@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\LCL\\Desktop\\sklearn_tensorflow\\kaggle\\Projects\\mnist\\mnist_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\LCL\\Desktop\\sklearn_tensorflow\\kaggle\\Projects\\mnist\\mnist_model.ckpt"
